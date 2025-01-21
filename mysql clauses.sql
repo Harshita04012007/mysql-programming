@@ -1,5 +1,8 @@
 create database personal;
 use personal;
+
+
+
 create table personal(
 id int not null unique,
 name varchar(50)not null,
